@@ -1,4 +1,4 @@
-from flask import Flask, render_template
+from flask import Flask, render_template, request
 from mapbox import Geocoder
 from os import environ
 
@@ -12,11 +12,15 @@ def get_coordinates(address):
     lng, lat = d['features'][0]['geometry']['coordinates']
     return {'longitude': lng, 'latitude': lat}
 
+@app.route('/')
+def home():
+    return render_template('homepage.html')
 
 
+@app.route('/geocode')
+def geopage():
+    addr = request.args['address']
 
-@app.route('/geocode/<addr>')
-def geopage(addr):
     c = get_coordinates(addr)
     return render_template('geocode.html', address=addr, lng=c['longitude'], lat=c['latitude'],
                            MAPBOX_ACCESS_TOKEN=environ['MAPBOX_ACCESS_TOKEN'])
