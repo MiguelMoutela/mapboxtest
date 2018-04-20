@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset=utf-8 />
+  <title></title>
+  <script src='https://api.mapbox.com/mapbox.js/v3.0.1/mapbox.js'></script>
+  <link href='https://api.mapbox.com/mapbox.js/v3.0.1/mapbox.css' rel='stylesheet' />
+  <link rel="stylesheet" href="/static/mystyles.css">
+  <script src="/static/mymap.js"></script>
+
+</head>
+<body>
+
+    <h1>{{address}}</h1>
+    <p>Longitude: {{lng}}</p>
+    <p>Latitude: {{lat}}</p>
+
+
+<div id='map_simple' class='map'> </div>
+
+<script>
+  myfoo("{{MAPBOX_ACCESS_TOKEN}}", {{lng}}, {{lat}});
+</script>
+
+</body>
+</html>
