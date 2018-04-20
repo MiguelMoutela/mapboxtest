@@ -1,0 +1,253 @@
+{
+  "type": "FeatureCollection",
+  "query": [
+    "101",
+    "broadway",
+    "new",
+    "york"
+  ],
+  "features": [
+    {
+      "id": "address.6330192138379902",
+      "type": "Feature",
+      "place_type": [
+        "address"
+      ],
+      "relevance": 1,
+      "properties": {},
+      "text": "Broadway",
+      "place_name": "101 Broadway, Fonda, New York 12068, United States",
+      "center": [
+        -74.377683,
+        42.956472
+      ],
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.377683,
+          42.956472
+        ],
+        "interpolated": true
+      },
+      "address": "101",
+      "context": [
+        {
+          "id": "postcode.7598498279456800",
+          "text": "12068"
+        },
+        {
+          "id": "place.9996610134066360",
+          "wikidata": "Q593663",
+          "text": "Fonda"
+        },
+        {
+          "id": "region.3866",
+          "short_code": "US-NY",
+          "wikidata": "Q1384",
+          "text": "New York"
+        },
+        {
+          "id": "country.3145",
+          "short_code": "us",
+          "wikidata": "Q30",
+          "text": "United States"
+        }
+      ]
+    },
+    {
+      "id": "address.7395905702548498",
+      "type": "Feature",
+      "place_type": [
+        "address"
+      ],
+      "relevance": 1,
+      "properties": {},
+      "text": "Broadway",
+      "place_name": "101 Broadway, Amenia, New York 12501, United States",
+      "center": [
+        -73.559578,
+        41.843097
+      ],
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.559578,
+          41.843097
+        ],
+        "interpolated": true
+      },
+      "address": "101",
+      "context": [
+        {
+          "id": "postcode.13307623370034810",
+          "text": "12501"
+        },
+        {
+          "id": "place.12438990587739640",
+          "wikidata": "Q462486",
+          "text": "Amenia"
+        },
+        {
+          "id": "region.3866",
+          "short_code": "US-NY",
+          "wikidata": "Q1384",
+          "text": "New York"
+        },
+        {
+          "id": "country.3145",
+          "short_code": "us",
+          "wikidata": "Q30",
+          "text": "United States"
+        }
+      ]
+    },
+    {
+      "id": "address.1235376370945240",
+      "type": "Feature",
+      "place_type": [
+        "address"
+      ],
+      "relevance": 1,
+      "properties": {},
+      "text": "Broadway",
+      "place_name": "101 Broadway, Tivoli, New York 12583, United States",
+      "center": [
+        -73.914228,
+        42.059468
+      ],
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.914228,
+          42.059468
+        ]
+      },
+      "address": "101",
+      "context": [
+        {
+          "id": "postcode.2928452121023430",
+          "text": "12583"
+        },
+        {
+          "id": "place.9941299726023000",
+          "wikidata": "Q2305704",
+          "text": "Tivoli"
+        },
+        {
+          "id": "region.3866",
+          "short_code": "US-NY",
+          "wikidata": "Q1384",
+          "text": "New York"
+        },
+        {
+          "id": "country.3145",
+          "short_code": "us",
+          "wikidata": "Q30",
+          "text": "United States"
+        }
+      ]
+    },
+    {
+      "id": "address.6629833295584892",
+      "type": "Feature",
+      "place_type": [
+        "address"
+      ],
+      "relevance": 1,
+      "properties": {},
+      "text": "Broadway",
+      "place_name": "101 Broadway, Shirley, New York 11967, United States",
+      "center": [
+        -72.860903,
+        40.788285
+      ],
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.860903,
+          40.788285
+        ],
+        "interpolated": true
+      },
+      "address": "101",
+      "context": [
+        {
+          "id": "neighborhood.33606",
+          "text": "Poospatuck Reservation"
+        },
+        {
+          "id": "postcode.10471680029003380",
+          "text": "11967"
+        },
+        {
+          "id": "place.10553054870998020",
+          "wikidata": "Q2671223",
+          "text": "Shirley"
+        },
+        {
+          "id": "region.3866",
+          "short_code": "US-NY",
+          "wikidata": "Q1384",
+          "text": "New York"
+        },
+        {
+          "id": "country.3145",
+          "short_code": "us",
+          "wikidata": "Q30",
+          "text": "United States"
+        }
+      ]
+    },
+    {
+      "id": "address.4583242839015584",
+      "type": "Feature",
+      "place_type": [
+        "address"
+      ],
+      "relevance": 0.5,
+      "properties": {},
+      "text": "Broadway",
+      "place_name": "101 Broadway, Saint Catharines, Ontario L2M 7W8, Canada",
+      "center": [
+        -79.213919,
+        43.228206
+      ],
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.213919,
+          43.228206
+        ]
+      },
+      "address": "101",
+      "context": [
+        {
+          "id": "neighborhood.12499937858303840",
+          "text": "Port Weller"
+        },
+        {
+          "id": "postcode.4245845006757150",
+          "text": "L2M 7W8"
+        },
+        {
+          "id": "place.12440563312835160",
+          "wikidata": "Q126805",
+          "text": "Saint Catharines"
+        },
+        {
+          "id": "region.3721",
+          "short_code": "CA-ON",
+          "wikidata": "Q1904",
+          "text": "Ontario"
+        },
+        {
+          "id": "country.3179",
+          "short_code": "ca",
+          "wikidata": "Q16",
+          "text": "Canada"
+        }
+      ]
+    }
+  ],
+  "attribution": "NOTICE: \u00a9 2017 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service (https://www.mapbox.com/about/maps/). This response and the information it contains may not be retained."
+}

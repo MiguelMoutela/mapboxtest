@@ -1,0 +1,242 @@
+{
+  "type": "FeatureCollection",
+  "query": [
+    "450",
+    "serra",
+    "mall",
+    "stanford"
+  ],
+  "features": [
+    {
+      "id": "address.2336556444331590",
+      "type": "Feature",
+      "place_type": [
+        "address"
+      ],
+      "relevance": 1,
+      "properties": {},
+      "text": "Serra Mall",
+      "place_name": "450 Serra Mall, Stanford, California 94305, United States",
+      "center": [
+        -122.17047,
+        37.426852
+      ],
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.17047,
+          37.426852
+        ]
+      },
+      "address": "450",
+      "context": [
+        {
+          "id": "postcode.6326284911472960",
+          "text": "94305"
+        },
+        {
+          "id": "place.10230900704879330",
+          "wikidata": "Q173813",
+          "text": "Stanford"
+        },
+        {
+          "id": "region.3591",
+          "short_code": "US-CA",
+          "wikidata": "Q99",
+          "text": "California"
+        },
+        {
+          "id": "country.3145",
+          "short_code": "us",
+          "wikidata": "Q30",
+          "text": "United States"
+        }
+      ]
+    },
+    {
+      "id": "address.8017712536650778",
+      "type": "Feature",
+      "place_type": [
+        "address"
+      ],
+      "relevance": 0.8333333333333333,
+      "properties": {},
+      "text": "Serra Mall",
+      "place_name": "Serra Mall, Stanford, California 94305, United States",
+      "center": [
+        -122.1717,
+        37.432548
+      ],
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1717,
+          37.432548
+        ]
+      },
+      "context": [
+        {
+          "id": "postcode.6326284911472960",
+          "text": "94305"
+        },
+        {
+          "id": "place.10230900704879330",
+          "wikidata": "Q173813",
+          "text": "Stanford"
+        },
+        {
+          "id": "region.3591",
+          "short_code": "US-CA",
+          "wikidata": "Q99",
+          "text": "California"
+        },
+        {
+          "id": "country.3145",
+          "short_code": "us",
+          "wikidata": "Q30",
+          "text": "United States"
+        }
+      ]
+    },
+    {
+      "id": "place.10230900704879330",
+      "type": "Feature",
+      "place_type": [
+        "place"
+      ],
+      "relevance": 0.3333333333333333,
+      "properties": {
+        "wikidata": "Q173813"
+      },
+      "text": "Stanford",
+      "place_name": "Stanford, California, United States",
+      "bbox": [
+        -122.194440009379,
+        37.3939399900706,
+        -122.149479992929,
+        37.4417400099998
+      ],
+      "center": [
+        -122.1677,
+        37.4248
+      ],
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1677,
+          37.4248
+        ]
+      },
+      "context": [
+        {
+          "id": "region.3591",
+          "short_code": "US-CA",
+          "wikidata": "Q99",
+          "text": "California"
+        },
+        {
+          "id": "country.3145",
+          "short_code": "us",
+          "wikidata": "Q30",
+          "text": "United States"
+        }
+      ]
+    },
+    {
+      "id": "place.3002326477797030",
+      "type": "Feature",
+      "place_type": [
+        "place"
+      ],
+      "relevance": 0.3333333333333333,
+      "properties": {
+        "wikidata": "Q2469218"
+      },
+      "text": "Stanford-Le-Hope",
+      "place_name": "Stanford-Le-Hope, Thurrock, England, United Kingdom",
+      "matching_text": "Stanford Rivers",
+      "matching_place_name": "Stanford Rivers, Thurrock, England, United Kingdom",
+      "bbox": [
+        0.384735,
+        51.47632,
+        0.541411,
+        51.552055
+      ],
+      "center": [
+        0.468177,
+        51.514181
+      ],
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.468177,
+          51.514181
+        ]
+      },
+      "context": [
+        {
+          "id": "district.7790718948038830",
+          "wikidata": "Q1549155",
+          "text": "Thurrock"
+        },
+        {
+          "id": "region.3185",
+          "short_code": "GB-ENG",
+          "wikidata": "Q21",
+          "text": "England"
+        },
+        {
+          "id": "country.358",
+          "short_code": "gb",
+          "wikidata": "Q145",
+          "text": "United Kingdom"
+        }
+      ]
+    },
+    {
+      "id": "place.14684596356879330",
+      "type": "Feature",
+      "place_type": [
+        "place"
+      ],
+      "relevance": 0.3333333333333333,
+      "properties": {
+        "wikidata": "Q951131"
+      },
+      "text": "Stanford",
+      "place_name": "Stanford, Kentucky, United States",
+      "bbox": [
+        -84.8579640099939,
+        37.4247799909602,
+        -84.5050849946906,
+        37.6130470086754
+      ],
+      "center": [
+        -84.6619,
+        37.5312
+      ],
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.6619,
+          37.5312
+        ]
+      },
+      "context": [
+        {
+          "id": "region.3224",
+          "short_code": "US-KY",
+          "wikidata": "Q1603",
+          "text": "Kentucky"
+        },
+        {
+          "id": "country.3145",
+          "short_code": "us",
+          "wikidata": "Q30",
+          "text": "United States"
+        }
+      ]
+    }
+  ],
+  "attribution": "NOTICE: \u00a9 2017 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service (https://www.mapbox.com/about/maps/). This response and the information it contains may not be retained."
+}

@@ -1,0 +1,253 @@
+{
+  "type": "FeatureCollection",
+  "query": [
+    "855",
+    "el",
+    "camino",
+    "real",
+    "palo",
+    "alto",
+    "ca"
+  ],
+  "features": [
+    {
+      "id": "address.669847987437590",
+      "type": "Feature",
+      "place_type": [
+        "address"
+      ],
+      "relevance": 1,
+      "properties": {},
+      "text": "El Camino Real",
+      "place_name": "855 El Camino Real, Palo Alto, California 94301, United States",
+      "center": [
+        -122.15833,
+        37.438575
+      ],
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.15833,
+          37.438575
+        ]
+      },
+      "address": "855",
+      "context": [
+        {
+          "id": "postcode.13354091920310040",
+          "text": "94301"
+        },
+        {
+          "id": "place.10015697442878810",
+          "wikidata": "Q47265",
+          "text": "Palo Alto"
+        },
+        {
+          "id": "region.3591",
+          "short_code": "US-CA",
+          "wikidata": "Q99",
+          "text": "California"
+        },
+        {
+          "id": "country.3145",
+          "short_code": "us",
+          "wikidata": "Q30",
+          "text": "United States"
+        }
+      ]
+    },
+    {
+      "id": "place.10015697442878810",
+      "type": "Feature",
+      "place_type": [
+        "place"
+      ],
+      "relevance": 0.6666666666666666,
+      "properties": {
+        "wikidata": "Q47265"
+      },
+      "text": "Palo Alto",
+      "place_name": "Palo Alto, California, United States",
+      "bbox": [
+        -122.202480009954,
+        37.3350899903215,
+        -122.087709990202,
+        37.4983630094227
+      ],
+      "center": [
+        -122.1634,
+        37.4422
+      ],
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1634,
+          37.4422
+        ]
+      },
+      "context": [
+        {
+          "id": "region.3591",
+          "short_code": "US-CA",
+          "wikidata": "Q99",
+          "text": "California"
+        },
+        {
+          "id": "country.3145",
+          "short_code": "us",
+          "wikidata": "Q30",
+          "text": "United States"
+        }
+      ]
+    },
+    {
+      "id": "address.5800689519763580",
+      "type": "Feature",
+      "place_type": [
+        "address"
+      ],
+      "relevance": 0.6666666666666666,
+      "properties": {},
+      "text": "W El Camino Real",
+      "place_name": "855 W El Camino Real, Mountain View, California 94040, United States",
+      "center": [
+        -122.08533,
+        37.386138
+      ],
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.08533,
+          37.386138
+        ]
+      },
+      "address": "855",
+      "context": [
+        {
+          "id": "neighborhood.289485",
+          "text": "Cuesta Park"
+        },
+        {
+          "id": "postcode.3859859265343470",
+          "text": "94040"
+        },
+        {
+          "id": "place.9489953811111820",
+          "wikidata": "Q486860",
+          "text": "Mountain View"
+        },
+        {
+          "id": "region.3591",
+          "short_code": "US-CA",
+          "wikidata": "Q99",
+          "text": "California"
+        },
+        {
+          "id": "country.3145",
+          "short_code": "us",
+          "wikidata": "Q30",
+          "text": "United States"
+        }
+      ]
+    },
+    {
+      "id": "address.3667845021205656",
+      "type": "Feature",
+      "place_type": [
+        "address"
+      ],
+      "relevance": 0.6666666666666666,
+      "properties": {},
+      "text": "El Camino Real W",
+      "place_name": "855 El Camino Real W, Mountain View, California 94040, United States",
+      "center": [
+        -122.08538,
+        37.386129
+      ],
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.08538,
+          37.386129
+        ]
+      },
+      "address": "855",
+      "context": [
+        {
+          "id": "neighborhood.289485",
+          "text": "Cuesta Park"
+        },
+        {
+          "id": "postcode.3859859265343470",
+          "text": "94040"
+        },
+        {
+          "id": "place.9489953811111820",
+          "wikidata": "Q486860",
+          "text": "Mountain View"
+        },
+        {
+          "id": "region.3591",
+          "short_code": "US-CA",
+          "wikidata": "Q99",
+          "text": "California"
+        },
+        {
+          "id": "country.3145",
+          "short_code": "us",
+          "wikidata": "Q30",
+          "text": "United States"
+        }
+      ]
+    },
+    {
+      "id": "address.7968896290278174",
+      "type": "Feature",
+      "place_type": [
+        "address"
+      ],
+      "relevance": 0.6666666666666666,
+      "properties": {},
+      "text": "Monterey Road",
+      "place_name": "855 Monterey Road, South Pasadena, California 91030, United States",
+      "matching_text": "El Camino Real",
+      "matching_place_name": "855 El Camino Real, South Pasadena, California 91030, United States",
+      "center": [
+        -118.15906,
+        34.1116
+      ],
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.15906,
+          34.1116
+        ]
+      },
+      "address": "855",
+      "context": [
+        {
+          "id": "postcode.9992405856859130",
+          "text": "91030"
+        },
+        {
+          "id": "place.6784798789846330",
+          "wikidata": "Q852581",
+          "text": "South Pasadena"
+        },
+        {
+          "id": "region.3591",
+          "short_code": "US-CA",
+          "wikidata": "Q99",
+          "text": "California"
+        },
+        {
+          "id": "country.3145",
+          "short_code": "us",
+          "wikidata": "Q30",
+          "text": "United States"
+        }
+      ]
+    }
+  ],
+  "attribution": "NOTICE: \u00a9 2017 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service (https://www.mapbox.com/about/maps/). This response and the information it contains may not be retained."
+}

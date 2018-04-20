@@ -1,0 +1,252 @@
+{
+  "type": "FeatureCollection",
+  "query": [
+    "stanford",
+    "ca"
+  ],
+  "features": [
+    {
+      "id": "place.10230900704879330",
+      "type": "Feature",
+      "place_type": [
+        "place"
+      ],
+      "relevance": 1,
+      "properties": {
+        "wikidata": "Q173813"
+      },
+      "text": "Stanford",
+      "place_name": "Stanford, California, United States",
+      "bbox": [
+        -122.194440009379,
+        37.3939399900706,
+        -122.149479992929,
+        37.4417400099998
+      ],
+      "center": [
+        -122.1677,
+        37.4248
+      ],
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1677,
+          37.4248
+        ]
+      },
+      "context": [
+        {
+          "id": "region.3591",
+          "short_code": "US-CA",
+          "wikidata": "Q99",
+          "text": "California"
+        },
+        {
+          "id": "country.3145",
+          "short_code": "us",
+          "wikidata": "Q30",
+          "text": "United States"
+        }
+      ]
+    },
+    {
+      "id": "neighborhood.293253",
+      "type": "Feature",
+      "place_type": [
+        "neighborhood"
+      ],
+      "relevance": 1,
+      "properties": {},
+      "text": "Stanford",
+      "place_name": "Stanford, Rocklin, California 95678, United States",
+      "bbox": [
+        -121.295178,
+        38.783237,
+        -121.265755,
+        38.795759
+      ],
+      "center": [
+        -121.2783,
+        38.7921
+      ],
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.2783,
+          38.7921
+        ]
+      },
+      "context": [
+        {
+          "id": "postcode.8630646296928040",
+          "text": "95678"
+        },
+        {
+          "id": "place.10720196976597380",
+          "wikidata": "Q984599",
+          "text": "Rocklin"
+        },
+        {
+          "id": "region.3591",
+          "short_code": "US-CA",
+          "wikidata": "Q99",
+          "text": "California"
+        },
+        {
+          "id": "country.3145",
+          "short_code": "us",
+          "wikidata": "Q30",
+          "text": "United States"
+        }
+      ]
+    },
+    {
+      "id": "poi.2443407485789410",
+      "type": "Feature",
+      "place_type": [
+        "poi"
+      ],
+      "relevance": 1,
+      "properties": {
+        "landmark": true,
+        "wikidata": "Q41506",
+        "tel": "(650) 723-2300",
+        "category": "college, education, school, university",
+        "address": "450 Serra Mall"
+      },
+      "text": "Stanford University",
+      "place_name": "Stanford University, 450 Serra Mall, Stanford, California 94305, United States",
+      "matching_text": "Stanford",
+      "matching_place_name": "Stanford, 450 Serra Mall, Stanford, California 94305, United States",
+      "center": [
+        -122.17,
+        37.43
+      ],
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.17,
+          37.43
+        ]
+      },
+      "context": [
+        {
+          "id": "postcode.6326284911472960",
+          "text": "94305"
+        },
+        {
+          "id": "place.10230900704879330",
+          "wikidata": "Q173813",
+          "text": "Stanford"
+        },
+        {
+          "id": "region.3591",
+          "short_code": "US-CA",
+          "wikidata": "Q99",
+          "text": "California"
+        },
+        {
+          "id": "country.3145",
+          "short_code": "us",
+          "wikidata": "Q30",
+          "text": "United States"
+        }
+      ]
+    },
+    {
+      "id": "poi.3587846287834520",
+      "type": "Feature",
+      "place_type": [
+        "poi"
+      ],
+      "relevance": 1,
+      "properties": {
+        "landmark": true,
+        "category": "restaurant",
+        "maki": "restaurant"
+      },
+      "text": "Stanford Caf\u00e9",
+      "place_name": "Stanford Caf\u00e9, Kowloon, Hong Kong",
+      "center": [
+        114.17939,
+        22.3144
+      ],
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.17939,
+          22.3144
+        ]
+      },
+      "context": [
+        {
+          "id": "locality.7161973820249620",
+          "wikidata": "Q986415",
+          "text": "Jiulongcheng Qu"
+        },
+        {
+          "id": "place.8363024200553460",
+          "wikidata": "Q239143",
+          "text": "Kowloon"
+        },
+        {
+          "id": "region.364",
+          "short_code": "hk",
+          "wikidata": "Q8646",
+          "text": "Hong Kong"
+        }
+      ]
+    },
+    {
+      "id": "poi.13389445222013920",
+      "type": "Feature",
+      "place_type": [
+        "poi"
+      ],
+      "relevance": 1,
+      "properties": {
+        "landmark": true,
+        "tel": "(650) 725-1789",
+        "category": "college, education, school, university",
+        "address": "563 Salvatierra Walk"
+      },
+      "text": "Stanford Career Development Center",
+      "place_name": "Stanford Career Development Center, 563 Salvatierra Walk, Stanford, California 94305, United States",
+      "center": [
+        -122.166947,
+        37.422611
+      ],
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.166947,
+          37.422611
+        ]
+      },
+      "context": [
+        {
+          "id": "postcode.6326284911472960",
+          "text": "94305"
+        },
+        {
+          "id": "place.10230900704879330",
+          "wikidata": "Q173813",
+          "text": "Stanford"
+        },
+        {
+          "id": "region.3591",
+          "short_code": "US-CA",
+          "wikidata": "Q99",
+          "text": "California"
+        },
+        {
+          "id": "country.3145",
+          "short_code": "us",
+          "wikidata": "Q30",
+          "text": "United States"
+        }
+      ]
+    }
+  ],
+  "attribution": "NOTICE: \u00a9 2017 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service (https://www.mapbox.com/about/maps/). This response and the information it contains may not be retained."
+}

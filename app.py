@@ -5,6 +5,10 @@ from os import environ
 app = Flask(__name__)
 
 
+def get_census_regions(lng, lat):
+    somedict = {}
+    return somedict
+
 def get_coordinates(address):
     geo = Geocoder()
     resp = geo.forward(address)
